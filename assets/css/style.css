@@ -1,0 +1,29 @@
+body {
+  color: #ffffff;
+  background: #413f3b url("../images/");
+  font-family: Georgia, "Times New Roman", Times, Serif;
+  font-size: 90%;
+  margin: 0px;
+}
+.navBar{
+  background: #282828;
+  font-family: QuicksandBook, Helvetica, ariel;
+  padding: 20px 0px 0px 0px;
+  text-align: right;
+}
+
+h3{
+  color: teal;
+  text-transform: uppercase;
+  font: fantasy;
+  font-weight: bold;
+}
+
+h1, h2, h4 {
+  font-family: QuicksandBook, Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #ffbb33;
+  
+  padding: 60px 0px 0px 0px;
+
+}
